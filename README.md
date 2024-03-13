@@ -8,8 +8,11 @@ I am a highly skilled and experienced full-stack developer with over 6 years of 
 🏡 Real Estate and Property Management
 
 🌟 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: JavaScript, Typescript, React/Redux, Next.js, Angular, Tailwind, and related styling libs
+
 🌟 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Nest.js and .NET Core
+
 🌟 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦: 3 years AWS hand-on experience
+
 🌟 𝐀𝐖𝐒 𝐬𝐤𝐢𝐥𝐥𝐬 𝐢𝐧𝐜𝐥𝐮𝐝𝐞: Lambda, Cloud Formation, IAM, Cognito, DynamoDB etc
 🌟 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MySQL, PostgreSQL, MongoDB
 🌟 𝐃𝐞𝐯𝐎𝐩𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬: CI/CD, Docker etc
