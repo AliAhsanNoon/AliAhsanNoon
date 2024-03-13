@@ -7,6 +7,8 @@ I am a highly skilled and experienced full-stack developer with over 6 years of 
 🚕 On-demand Services
 🏡 Real Estate and Property Management
 
+🛠 Tech Stack
+
 🌟 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: JavaScript, Typescript, React/Redux, Next.js, Angular, Tailwind, and related styling libs
 
 🌟 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Nest.js and .NET Core
