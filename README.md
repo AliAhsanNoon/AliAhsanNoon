@@ -1,4 +1,4 @@
-I am a highly skilled and experienced full-stack developer with over 6 years of experience in web development. I bring expertise in both front-end and back-end development, allowing me to handle every aspect of your project with precision and efficiency.
+Full Stack Engineer with over 6 years of experience specializing in both front-end and back-end development. Skilled in designing, building, and maintaining efficient, reusable, and reliable code across multiple platforms. Proficient in a broad range of web and cloud technologies, I deliver robust solutions that meet modern software requirements. Committed to continuous learning and applying best practices in software architecture and design.
 
 🎯Top industry experience
 📈 Fintech Services
@@ -7,7 +7,7 @@ I am a highly skilled and experienced full-stack developer with over 6 years of 
 🚕 On-demand Services
 🏡 Real Estate and Property Management
 
-🛠 Tech Stack
+🛠 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 🌟 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: JavaScript, Typescript, React/Redux, Next.js, Angular, Tailwind, and related styling libs
 
@@ -29,10 +29,3 @@ I am a highly skilled and experienced full-stack developer with over 6 years of 
 
 🌟 𝐓𝐡𝐢𝐫𝐝-𝐏𝐚𝐫𝐭𝐲 𝐀𝐏𝐈: Social Media API, Twilio, SendGrid, Stripe Payment Gateway, Apple Pay, Google Pay
 
-⚡ Here is what you can get from me:
-📍 Scalable Web Applications using the latest design patterns and principles
-📍 Optimizations and lightspeed loading times
-📍 Full stack development with deployments and automated pipelines
-📍 Production error logs with watchdog etc
-
-Let's get started
