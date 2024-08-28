@@ -1,6 +1,6 @@
 👨🏻‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-Full Stack Engineer with over 6 years of experience specializing in front-end and back-end development. I am skilled in designing, building, and maintaining efficient, reusable, and reliable code across multiple platforms. Proficient in a broad range of web and cloud technologies, I deliver robust solutions that meet modern software requirements—committed to continuous learning and applying best practices in software architecture and design.
+Full Stack Engineer with over 7+ years of experience specializing in front-end and back-end development. I am skilled in designing, building, and maintaining efficient, reusable, and reliable code across multiple platforms. Proficient in a broad range of web and cloud technologies, I deliver robust solutions that meet modern software requirements—committed to continuous learning and applying best practices in software architecture and design.
 
 🎯𝐓𝐨𝐩 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
 📈 Fintech Services
